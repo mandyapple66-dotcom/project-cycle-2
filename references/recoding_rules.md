@@ -14,6 +14,7 @@
 
 ### 3. Data Check Summary
 * **Raw Data Source:** `YRBS_2007.csv`
-* **Cleaning Process:** 1. Filtered for target variables: `SadOrHopeless` and `BMIPCT`.
+* **Cleaning Process:**
+    1. Filtered for target variables: `SadOrHopeless` and `BMIPCT`.
     2. Removed rows with missing values (NaN).
     3. Verified the final counts using `value_counts()`.
