@@ -1,0 +1,31 @@
+Project Cycle 2 Final Summary
+
+1. RESEARCH QUESTION
+- Proportion: Is the proportion of students who felt sad or hopeless for two weeks or more in 2007 different from the 2005 benchmark of 28.5% (p0=0.285)?"
+- Mean: "Is the mean BMI percentile of students in 2007 different from the historical average of 65.0 (μ0=65.0)?"
+
+2. DATA AND VARIABLES
+- Dataset: YRBS_2007.csv (Sample size n = 12,902)
+- Categorical Variable: SadOrHopeless (Success = Code 1, Failure = Code 2)
+- Continuous Variable: BMIPCT (Valid percentile range 0-100)
+
+3. EDA HIGHLIGHTS
+- Depressive Symptoms: Approximately 29.8% of students reported feeling sad or hopeless, as visualized in the bar chart.
+- BMI Percentile: The distribution is slightly right-skewed with a sample mean near 64.8, consistent with the histogram and boxplot analysis.
+
+4. INFERENTIAL RESULTS
+- Proportion Analysis:
+  * Sample Proportion: 0.2978
+  * 95% Confidence Interval: [0.2899, 0.3057]
+  * Z-test P-value: 0.0015
+  * Decision: Reject/Fail to reject Null Hypothesis (p < 0.05)
+- Mean Analysis:
+  * Sample Mean: 64.83 (Std Dev: 27.51)
+  * 95% Confidence Interval: [64.3537, 65.3033]
+  * T-test P-value: 0.4789
+  * Decision: Fail to reject Null Hypothesis (p > 0.05)
+
+5. FINAL CONCLUSION
+- We found significant evidence that mental health indicators (depressive symptoms) have significantly increased compared to the 2005 benchmark.
+- Physical health indicators (BMI percentile) remain statistically stable and show no significant deviation from the historical average of 65.0.
+- The results suggest a critical need for increased mental health support and counseling resources within schools to address the rising emotional distress among youth.
