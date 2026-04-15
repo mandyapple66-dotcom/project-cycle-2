@@ -1,0 +1,3 @@
+Variable,Benchmark (H0),Sample Estimate,95% Conf. Interval,P-value,Decision
+(0)SadOrHopeless,0.3,0.3,"(0.2923, 0.3076)",0.9926,Fail to Reject H0
+(1)BMIPCT,65.0,64.8207,"(64.3487, 65.2926)",0.4564,Fail to Reject H0
