@@ -8,7 +8,7 @@
 This project analyzes the health trends of high school students using the 2007 Youth Risk Behavior Survey (YRBS). We focus on both mental health (depressive symptoms) and physical health (BMI) to determine if there have been significant shifts compared to historical benchmarks.
 
 ## Research Question
-* **Proportion Analysis:** Is the proportion of students who felt sad or hopeless for two weeks or more in 2007 different from the 2005 benchmark of 28.5% (p0=0.285)?
+* **Proportion Analysis:** Is the proportion of students who felt sad or hopeless for two weeks or more in 2007 different from the benchmark of 30% (p0=0.30)?
 * **Mean Analysis:** Is the mean BMI percentile of students in 2007 different from the historical average of 65.0 (μ0=65.0)?
 
 ## Dataset & Variables
